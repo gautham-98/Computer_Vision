@@ -1,0 +1,14 @@
+cython
+ipywidgets
+jupyter
+jupyterlab
+matplotlib
+numba
+numexpr
+notebook
+pandas
+scikit-image
+scikit-learn
+opencv-python
+numpy
+logging
